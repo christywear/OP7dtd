@@ -5,7 +5,9 @@
 
 	   <Server Name="War of the walkers hosted by Vampy of opgaminghost.com" Logo="">
 
-			<Description>Visit our website at https://www.opgaminghost.com/ Make sure you presync before joining!:) Have fun. </Description>
+			<Description>Visit our website at https://www.opgaminghost.com/ Make sure you presync before joining!:) 
+			Have fun. 
+			mods are War of Walkers, and some mods by War3zuk</Description>
 
 			<DownloadMode>Clone</DownloadMode>
 
@@ -16,7 +18,7 @@
 			<Downloads>
 
 			   <Download>https://github.com/dwallorde/War-of-the-Walkers-Mod-V7/archive/master.zip</Download>
-			   <Download>https://github.com/War3zuk/War3zuk-Alpha-18-Stable-ModLets</Download>
+			   <Download>https://github.com/christywear/OP7dtd</Download>
 
 
 			</Downloads>
